@@ -78,7 +78,7 @@ Only the following functions are allowed to be used in this project:<br>
 
 ```bash
 # Clone this project
-$ git clone https://github.com/anolivei/Minishell42
+$ git clone https://github.com/lucienfer/Minishell-42
 
 # Access
 $ cd Minishell42
